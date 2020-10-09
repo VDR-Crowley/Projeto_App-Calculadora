@@ -3,14 +3,14 @@
 Esse projeto é basico feito apenas para praticar os conhecimentos sobre *JavaScript*
 
 >Desenvolvido no curso de desenvolvimento web 
-**Pelo professor:** _Jorge Sant ana_
-**Melhorado por mim:** _Vando Dos Reis_
+>**Pelo professor:** _Jorge Sant ana_
+>**Melhorado por mim:** _Vando Dos Reis_
 
 #### Tecnologias Usadas
 > JavaScript
- Html
- Css
- Bootstrap 4
+>Html
+>Css
+>Bootstrap 4
 
 
 #### imagens da calculadora
