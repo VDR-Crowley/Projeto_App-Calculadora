@@ -7,9 +7,12 @@ Esse projeto é basico feito apenas para praticar os conhecimentos sobre *JavaSc
 >**Melhorado por mim:** _Vando Dos Reis_
 
 #### Tecnologias Usadas
-> JavaScript 
+> JavaScript
+&nbsp;
  Html 
+ &nbsp;
  Css 
+ &nbsp;
  Bootstrap 4 
 
 
